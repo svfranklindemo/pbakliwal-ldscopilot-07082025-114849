@@ -1,7 +1,19 @@
 {
-  "mappings": [
-    "/content/pbakliwal/eds-crosswalk-source/:/",
-    "/content/pbakliwal/eds-crosswalk-source/metadata.json:/metadata.json",
-    "/content/pbakliwal/eds-crosswalk-source/redirects.json:/redirects.json"
-  ]
+    "mappings": [
+      "/content/pbakliwal/cffd2eb2-0ec0-4caa-bd69-ef7ee97605b1/:/",
+      "/content/pbakliwal/cffd2eb2-0ec0-4caa-bd69-ef7ee97605b1/configuration:/.helix/config.json",
+      "/content/pbakliwal/cffd2eb2-0ec0-4caa-bd69-ef7ee97605b1/metadata:/metadata.json",
+      "/content/pbakliwal/cffd2eb2-0ec0-4caa-bd69-ef7ee97605b1/configs:/configs.json",
+      "/content/pbakliwal/cffd2eb2-0ec0-4caa-bd69-ef7ee97605b1/configs-stage:/configs-stage.json",
+      "/content/pbakliwal/cffd2eb2-0ec0-4caa-bd69-ef7ee97605b1/configs-dev:/configs-dev.json",
+      "/content/pbakliwal/cffd2eb2-0ec0-4caa-bd69-ef7ee97605b1/redirects:/redirects.json",
+      "/content/pbakliwal/cffd2eb2-0ec0-4caa-bd69-ef7ee97605b1/placeholders:/placeholders.json",
+      "/content/pbakliwal/cffd2eb2-0ec0-4caa-bd69-ef7ee97605b1/products/recommended-products:/products/recommended-products.json",
+      "/content/pbakliwal/cffd2eb2-0ec0-4caa-bd69-ef7ee97605b1/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/pbakliwal/cffd2eb2-0ec0-4caa-bd69-ef7ee97605b1/images/products/:/images/products/"
+    ],
+    "includes": [
+      "/content/pbakliwal/cffd2eb2-0ec0-4caa-bd69-ef7ee97605b1",
+      "/content/dam/citisignal/images/products/"
+    ]
 }
